@@ -1,2 +1,2 @@
 # rem-test
-the responseive design  for phone   brower base on rem
+just look the homepage and the readboy css you will know how rem work
