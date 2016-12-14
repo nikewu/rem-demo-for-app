@@ -1,2 +1,2 @@
 # rem-test
-just look the homepage and the readboy css you will know how rem work
+it's a demo about  how rem  work on webapp
